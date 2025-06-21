@@ -1,10 +1,11 @@
-Proyecto: Interfaz Inteligente de Soporte a Decisiones de Marketing en E-commerce mediante Aprendizaje Automático 
-¿Qué hace el proyecto?
+# Proyecto: Interfaz Inteligente de Soporte a Decisiones de Marketing en E-commerce mediante Aprendizaje Automático 
+
+## ¿Qué hace el proyecto?
 Este proyecto tiene como propósito principal desarrollar una Interfaz Web intuitiva y robusta para el soporte a la toma de decisiones estratégicas en el área de Marketing de empresas de Comercio Electrónico. Aborda la problemática de los grandes volúmenes de datos dispersos y poco estructurados que generan las plataformas e-Commerce , los cuales dificultan el análisis estratégico y la toma de decisiones oportunas.
 
 
 
-Características principales:
+## Características principales:
 
 Visualización de información clave: Permite visualizar datos importantes por producto, categoría, precio, descuentos, rating y opinión del cliente.
 Procesamiento con modelos de analítica de datos: Genera predicciones, segmentaciones y recomendaciones sobre la venta de productos utilizando Machine Learning (ML).
